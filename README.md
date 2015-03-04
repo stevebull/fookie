@@ -1,2 +1,3 @@
 # fookie
 fookie = fortune cookie + lucky number. http://fookie.mobi/ is currently a micro browser web site where a visitor can get fookies
+Steve Bull created the product 'fookie' in the early days of cell phone browsers to experiment with the user experience and code required to create a simple product that work on everyone's cellphones. For a time and this may continue to be true, Fookie was distributed world wide on most major cellphone carrier networks. I believe Fookie has the potential of a continued existance with advertising delivered with each fookie. This is one of Bull's back burner projects. This project was also coded in J2ME that was a precursor to JavaME and Android. Bull is unsure if ever coded an iOS version.
